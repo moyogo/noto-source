@@ -1,5 +1,5 @@
 {
-.appVersion = "983";
+.appVersion = "1071";
 copyright = "Copyright 2017 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -148,7 +148,7 @@ value = (
 {
 name = codePageRanges;
 value = (
-"1252"
+1252
 );
 }
 );
@@ -213,16 +213,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"11",
-"5",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 }
 );
@@ -10303,21 +10303,21 @@ instances = (
 customParameters = (
 {
 name = weightClass;
-value = "400";
+value = 400;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"5",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -10405,15 +10405,15 @@ uni198B = 83.0078;
 uni198C = 83.0078;
 uni1993 = 88.8672;
 uni1999 = 88.8672;
-uni19A1 = 137.695;
-uni19A4 = 137.695;
+uni19A1 = 137.69501;
+uni19A4 = 137.69501;
 uni19A7 = 95.7031;
 uni19A8 = 88.8672;
 uni19A9 = 88.8672;
 uni19B3 = 108.398;
 uni19C3 = 99.6094;
 uni19C4 = 76.1719;
-uni19C6 = 144.531;
+uni19C6 = 144.53101;
 };
 uni19BE = {
 uni1986 = 118.164;

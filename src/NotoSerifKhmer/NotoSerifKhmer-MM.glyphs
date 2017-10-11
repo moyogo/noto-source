@@ -1,5 +1,5 @@
 {
-.appVersion = "939";
+.appVersion = "1071";
 classes = (
 {
 code = "uni1780 uni1781 uni1782 uni1783 uni1784 uni1785 uni1786 uni1787 uni1788 uni1789 uni178A uni178B uni178C uni178D uni178E uni178F uni1790 uni1791 uni1792 uni1793 uni1794 uni1795 uni1796 uni1797 uni1798 uni1799 uni179A uni179B uni179C uni179D uni179E uni179F uni17A0 uni17A1 uni17A2 uni17A3 uni17A4 ";
@@ -448,11 +448,11 @@ value = "Designed by Monotype design team.";
 {
 name = unicodeRanges;
 value = (
-"0",
-"1",
-"31",
-"45",
-"80"
+0,
+1,
+31,
+45,
+80
 );
 }
 );
@@ -561,16 +561,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"2",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+2,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -699,16 +699,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"5",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+5,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -857,16 +857,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"10",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+10,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -999,16 +999,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"2",
-"6",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+2,
+6,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -1146,16 +1146,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"5",
-"6",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+5,
+6,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -1293,16 +1293,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"10",
-"6",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+10,
+6,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -110020,8 +110020,8 @@ value = "Noto Serif Khmer ExtLt";
 );
 interpolationWeight = 42;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.212121;
-"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.787879;
+"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.78788;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.21212;
 };
 name = ExtraLight;
 weightClass = "Extra Light";
@@ -110086,8 +110086,8 @@ value = "Noto Serif Khmer Light";
 );
 interpolationWeight = 64;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.545455;
-"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.454545;
+"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.45455;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.54545;
 };
 name = Light;
 weightClass = Light;
@@ -110540,8 +110540,8 @@ value = "Noto Serif Khmer SemCond Thin";
 interpolationWeight = 28;
 interpolationWidth = 89;
 instanceInterpolations = {
-"1DC75306-0750-4696-AEC7-032F44743549" = 0.366667;
-"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.633333;
+"1DC75306-0750-4696-AEC7-032F44743549" = 0.36667;
+"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.63333;
 };
 name = "SemiCondensed Thin";
 weightClass = Thin;
@@ -110608,10 +110608,10 @@ value = "Noto Serif Khmer SemCond ExtLt";
 interpolationWeight = 42;
 interpolationWidth = 89;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.106061;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.106061;
-"1DC75306-0750-4696-AEC7-032F44743549" = 0.260606;
-"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.527273;
+"1DC75306-0750-4696-AEC7-032F44743549" = 0.28889;
+"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.49899;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.13434;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.07778;
 };
 name = "SemiCondensed ExtraLight";
 weightClass = "Extra Light";
@@ -110678,10 +110678,10 @@ value = "Noto Serif Khmer SemCond Light";
 interpolationWeight = 64;
 interpolationWidth = 89;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.362121;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.183333;
-"1DC75306-0750-4696-AEC7-032F44743549" = 0.183333;
-"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.271212;
+"1DC75306-0750-4696-AEC7-032F44743549" = 0.16667;
+"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.28788;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.34545;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.2;
 };
 name = "SemiCondensed Light";
 weightClass = Light;
@@ -110748,8 +110748,8 @@ value = "Noto Serif Khmer SemCond";
 interpolationWeight = 94;
 interpolationWidth = 89;
 instanceInterpolations = {
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.366667;
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.633333;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.63333;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.36667;
 };
 name = SemiCondensed;
 widthClass = SemiCondensed;
@@ -110815,10 +110815,10 @@ value = "Noto Serif Khmer SemCond Med";
 interpolationWeight = 110;
 interpolationWidth = 89;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.553333;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.286667;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.08;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.08;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.05867;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.10133;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.532;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.308;
 };
 name = "SemiCondensed Medium";
 weightClass = Medium;
@@ -110885,10 +110885,10 @@ value = "Noto Serif Khmer SemCond SemBd";
 interpolationWeight = 130;
 interpolationWidth = 89;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.453333;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.186667;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.18;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.18;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.132;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.228;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.40533;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.23467;
 };
 name = "SemiCondensed SemiBold";
 weightClass = SemiBold;
@@ -110955,10 +110955,10 @@ value = "Noto Serif Khmer SemCond";
 interpolationWeight = 152;
 interpolationWidth = 89;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.236667;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.183333;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.396667;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.183333;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.21267;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.36733;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.266;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.154;
 };
 isBold = 1;
 linkStyle = SemiCondensed;
@@ -111027,10 +111027,10 @@ value = "Noto Serif Khmer SemCond ExtBd";
 interpolationWeight = 175;
 interpolationWidth = 89;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.095;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.095;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.538333;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.271667;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.297;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.513;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.12033;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.06967;
 };
 name = "SemiCondensed ExtraBold";
 weightClass = ExtraBold;
@@ -111097,8 +111097,8 @@ value = "Noto Serif Khmer SemCond Blk";
 interpolationWeight = 194;
 interpolationWidth = 89;
 instanceInterpolations = {
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.366667;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.633333;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.36667;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.63333;
 };
 name = "SemiCondensed Black";
 weightClass = Black;
@@ -111233,10 +111233,10 @@ value = "Noto Serif Khmer Cond ExtLt";
 interpolationWeight = 42;
 interpolationWidth = 79;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.106061;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.106061;
-"1DC75306-0750-4696-AEC7-032F44743549" = 0.593939;
-"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.193939;
+"1DC75306-0750-4696-AEC7-032F44743549" = 0.55152;
+"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.23636;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.06364;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.14848;
 };
 name = "Condensed ExtraLight";
 weightClass = "Extra Light";
@@ -111303,10 +111303,10 @@ value = "Noto Serif Khmer Cond Light";
 interpolationWeight = 64;
 interpolationWidth = 79;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.15;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.395455;
-"1DC75306-0750-4696-AEC7-032F44743549" = 0.304545;
-"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.15;
+"1DC75306-0750-4696-AEC7-032F44743549" = 0.31818;
+"37E1EBAF-DBB8-42B6-8B14-41DF5B276D12" = 0.13636;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.16364;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.38182;
 };
 name = "Condensed Light";
 weightClass = Light;
@@ -111373,8 +111373,8 @@ value = "Noto Serif Khmer Cond";
 interpolationWeight = 94;
 interpolationWidth = 79;
 instanceInterpolations = {
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.7;
 "88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.3;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.7;
 };
 name = Condensed;
 widthClass = Condensed;
@@ -111440,10 +111440,10 @@ value = "Noto Serif Khmer Cond Med";
 interpolationWeight = 110;
 interpolationWidth = 79;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.22;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.62;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.08;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.08;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.112;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.048;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.252;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.588;
 };
 name = "Condensed Medium";
 weightClass = Medium;
@@ -111510,10 +111510,10 @@ value = "Noto Serif Khmer Cond SemBd";
 interpolationWeight = 130;
 interpolationWidth = 79;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.15;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.49;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.15;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.21;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.252;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.108;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.192;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.448;
 };
 name = "Condensed SemiBold";
 weightClass = SemiBold;
@@ -111580,10 +111580,10 @@ value = "Noto Serif Khmer Cond";
 interpolationWeight = 152;
 interpolationWidth = 79;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.15;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.27;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.15;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.43;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.406;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.174;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.126;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.294;
 };
 isBold = 1;
 linkStyle = Condensed;
@@ -111652,10 +111652,10 @@ value = "Noto Serif Khmer Cond ExtBd";
 interpolationWeight = 175;
 interpolationWidth = 79;
 instanceInterpolations = {
-"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.095;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.095;
-"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.205;
-"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.605;
+"2845A654-27C0-4D24-8E0C-7DAF9BC7668A" = 0.567;
+"33F44B55-ADBD-4698-98EB-0F29A0B3A069" = 0.243;
+"88BEB7F0-7448-46FF-842C-45A92B9492CE" = 0.057;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.133;
 };
 name = "Condensed ExtraBold";
 weightClass = ExtraBold;
@@ -111857,8 +111857,8 @@ value = "Noto Serif Khmer ExtCond ExtLt";
 interpolationWeight = 42;
 interpolationWidth = 70;
 instanceInterpolations = {
-"1DC75306-0750-4696-AEC7-032F44743549" = 0.787879;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.212121;
+"1DC75306-0750-4696-AEC7-032F44743549" = 0.78788;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.21212;
 };
 name = "ExtraCondensed ExtraLight";
 weightClass = "Extra Light";
@@ -111925,8 +111925,8 @@ value = "Noto Serif Khmer ExtCond Light";
 interpolationWeight = 64;
 interpolationWidth = 70;
 instanceInterpolations = {
-"1DC75306-0750-4696-AEC7-032F44743549" = 0.454545;
-"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.545455;
+"1DC75306-0750-4696-AEC7-032F44743549" = 0.45455;
+"BB318BD9-DEF5-4D27-998D-30B020A0DD4F" = 0.54545;
 };
 name = "ExtraCondensed Light";
 weightClass = Light;

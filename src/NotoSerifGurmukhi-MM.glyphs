@@ -1,5 +1,5 @@
 {
-.appVersion = "1060";
+.appVersion = "1071";
 copyright = "Copyright 2017 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -475,16 +475,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"2",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+2,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -554,16 +554,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"5",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+5,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -628,16 +628,16 @@ value = 50;
 {
 name = panose;
 value = (
-"2",
-"2",
-"10",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+10,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 }
 );
@@ -34047,8 +34047,8 @@ twoguru = -10;
 "@MMK_R_rraL" = -18;
 "@MMK_R_taL" = -26;
 "@MMK_R_tthaL" = -6;
-ganuktaguru = -27.95180;
-phanuktaguru = -23.97590;
+ganuktaguru = -27.9518;
+phanuktaguru = -23.9759;
 };
 "@MMK_L_caR" = {
 "@MMK_R_aL" = -14;
@@ -34129,8 +34129,8 @@ phanuktaguru = -23.97590;
 "@MMK_R_nyaL" = -26;
 "@MMK_R_phaL" = -8;
 "@MMK_R_rraL" = -30;
-ganuktaguru = -36.02410;
-phanuktaguru = -36.02410;
+ganuktaguru = -36.0241;
+phanuktaguru = -36.0241;
 };
 "@MMK_L_iriR" = {
 "@MMK_R_aL" = -16;
@@ -34262,10 +34262,10 @@ phanuktaguru = -36.02410;
 "@MMK_R_ngaL" = -10;
 };
 aibindiguru = {
-"@MMK_R_imatraL" = 19.87950;
+"@MMK_R_imatraL" = 19.8795;
 };
 aubindiguru = {
-"@MMK_R_imatraL" = 25.90360;
+"@MMK_R_imatraL" = 25.9036;
 };
 eightguru = {
 fiveguru = -20;
@@ -34281,26 +34281,26 @@ eightguru = 3.9759;
 fiveguru = 2.04819;
 nineguru = 3.9759;
 sevenguru = -2.04819;
-zeroguru = -16.02410;
+zeroguru = -16.0241;
 };
 fourguru = {
 fiveguru = -3.9759;
 nineguru = 3.9759;
 sevenguru = -2.04819;
 twoguru = -3.9759;
-zeroguru = -16.02410;
+zeroguru = -16.0241;
 };
 iibindiguru = {
-"@MMK_R_imatraL" = 25.90360;
+"@MMK_R_imatraL" = 25.9036;
 };
 iimatrabindiguru = {
-"@MMK_R_imatraL" = 19.87950;
+"@MMK_R_imatraL" = 19.8795;
 };
 lanuktaguru = {
 "@MMK_R_aL" = -60;
-"@MMK_R_aamatraL" = -66.02410;
-"@MMK_R_iimatraL" = -52.04820;
-"@MMK_R_nyaL" = -43.97590;
+"@MMK_R_aamatraL" = -66.0241;
+"@MMK_R_iimatraL" = -52.0482;
+"@MMK_R_nyaL" = -43.9759;
 };
 nineguru = {
 fiveguru = 2.04819;
@@ -34317,7 +34317,7 @@ fiveguru = 2.04819;
 oneguru = -7.95181;
 };
 oobindiguru = {
-"@MMK_R_imatraL" = 19.87950;
+"@MMK_R_imatraL" = 19.8795;
 };
 sevenguru = {
 fiveguru = 2.04819;
@@ -34325,13 +34325,13 @@ fourguru = -7.95181;
 oneguru = 6.0241;
 sevenguru = -28.0723;
 sixguru = -20;
-threeguru = -17.95180;
+threeguru = -17.9518;
 twoguru = -7.95181;
 };
 sixguru = {
 fiveguru = -3.9759;
 twoguru = -3.9759;
-zeroguru = -16.02410;
+zeroguru = -16.0241;
 };
 threeguru = {
 fiveguru = -7.95181;
@@ -34346,16 +34346,16 @@ twoguru = -11.988;
 zeroguru = -10;
 };
 ubindiguru = {
-"@MMK_R_imatraL" = 25.90360;
+"@MMK_R_imatraL" = 25.9036;
 };
 ubindinuktaguru = {
-"@MMK_R_imatraL" = 25.90360;
+"@MMK_R_imatraL" = 25.9036;
 };
 uubindiguru = {
-"@MMK_R_imatraL" = 25.90360;
+"@MMK_R_imatraL" = 25.9036;
 };
 uubindinuktaguru = {
-"@MMK_R_imatraL" = 25.90360;
+"@MMK_R_imatraL" = 25.9036;
 };
 zeroguru = {
 eightguru = -6.0241;
@@ -34363,7 +34363,7 @@ fiveguru = 6.0241;
 fourguru = -6.0241;
 nineguru = -6.0241;
 oneguru = -3.9759;
-sevenguru = -21.08430;
+sevenguru = -21.0843;
 threeguru = -6.0241;
 twoguru = -6.0241;
 };

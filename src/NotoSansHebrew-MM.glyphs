@@ -1,5 +1,5 @@
 {
-.appVersion = "905";
+.appVersion = "1071";
 copyright = "Copyright 2015 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -211,6 +211,7 @@ value = "Version 2.000";
 date = "2016-07-04 10:39:08 +0000";
 designer = "Monotype Design Team";
 designerURL = "http://www.monotype.com/studio";
+disablesNiceNames = 1;
 familyName = "Noto Sans Hebrew";
 featurePrefixes = (
 {
@@ -45982,27 +45983,26 @@ note = uniFB1E;
 unicode = FB1E;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
 {
 name = weightClass;
-value = "100";
+value = 100;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"2",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+2,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46025,21 +46025,21 @@ weightClass = Thin;
 customParameters = (
 {
 name = weightClass;
-value = "200";
+value = 200;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"3",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+3,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46053,8 +46053,8 @@ value = "Noto Sans Hebrew ExtLt";
 );
 interpolationWeight = 39;
 instanceInterpolations = {
-"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.796875;
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.203125;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.20312;
+"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.79688;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
@@ -46063,21 +46063,21 @@ weightClass = ExtraLight;
 customParameters = (
 {
 name = weightClass;
-value = "300";
+value = 300;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"4",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+4,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46091,8 +46091,8 @@ value = "Noto Sans Hebrew Light";
 );
 interpolationWeight = 58;
 instanceInterpolations = {
-"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.5;
 "0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.5;
+"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.5;
 };
 name = Light;
 weightClass = Light;
@@ -46101,21 +46101,21 @@ weightClass = Light;
 customParameters = (
 {
 name = weightClass;
-value = "400";
+value = 400;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"5",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46133,21 +46133,21 @@ name = Regular;
 customParameters = (
 {
 name = weightClass;
-value = "500";
+value = 500;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"6",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+6,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46161,8 +46161,8 @@ value = "Noto Sans Hebrew Med";
 );
 interpolationWeight = 108;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.704918;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.295082;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.70492;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.29508;
 };
 name = Medium;
 weightClass = Medium;
@@ -46171,21 +46171,21 @@ weightClass = Medium;
 customParameters = (
 {
 name = weightClass;
-value = "600";
+value = 600;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"7",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+7,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46199,8 +46199,8 @@ value = "Noto Sans Hebrew SemBd";
 );
 interpolationWeight = 128;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.377049;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.622951;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.37705;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.62295;
 };
 linkStyle = Regular;
 name = SemiBold;
@@ -46210,21 +46210,21 @@ weightClass = SemiBold;
 customParameters = (
 {
 name = weightClass;
-value = "700";
+value = 700;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"8",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+8,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46245,21 +46245,21 @@ weightClass = Bold;
 customParameters = (
 {
 name = weightClass;
-value = "800";
+value = 800;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"9",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+9,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46273,8 +46273,8 @@ value = "Noto Sans Hebrew ExtBd";
 );
 interpolationWeight = 169;
 instanceInterpolations = {
-"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.461538;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.538462;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.53846;
+"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.46154;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
@@ -46283,21 +46283,21 @@ weightClass = ExtraBold;
 customParameters = (
 {
 name = weightClass;
-value = "900";
+value = 900;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"10",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+10,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46320,21 +46320,21 @@ weightClass = Black;
 customParameters = (
 {
 name = weightClass;
-value = "100";
+value = 100;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"2",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+2,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46360,21 +46360,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "200";
+value = 200;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"3",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+3,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46389,10 +46389,10 @@ value = "Noto Sans Hebrew Cond ExtLt";
 interpolationWeight = 39;
 interpolationWidth = 79;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.101562;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.101562;
-"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.598437;
-"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.198437;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.06094;
+"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.23906;
+"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.55781;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.14219;
 };
 name = "Condensed ExtraLight";
 weightClass = "Extra Light";
@@ -46402,21 +46402,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "300";
+value = 300;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"4",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+4,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46432,9 +46432,9 @@ interpolationWeight = 58;
 interpolationWidth = 79;
 instanceInterpolations = {
 "0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.15;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.35;
-"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.35;
 "1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.15;
+"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.35;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.35;
 };
 name = "Condensed Light";
 weightClass = Light;
@@ -46444,21 +46444,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "400";
+value = 400;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"5",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+5,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46483,21 +46483,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "500";
+value = 500;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"6",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+6,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46512,10 +46512,10 @@ value = "Noto Sans Hebrew Cond Med";
 interpolationWeight = 108;
 interpolationWidth = 79;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.152459;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.147541;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.552459;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.147541;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.21148;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.08852;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.20656;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.49344;
 };
 name = "Condensed Medium";
 weightClass = Medium;
@@ -46525,21 +46525,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "600";
+value = 600;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"7",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+7,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46554,10 +46554,10 @@ value = "Noto Sans Hebrew Cond SemBd";
 interpolationWeight = 128;
 interpolationWidth = 79;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.15;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.15;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.227049;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.472951;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.11311;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.18689;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.43607;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.26393;
 };
 name = "Condensed SemiBold ";
 weightClass = SemiBold;
@@ -46567,21 +46567,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "700";
+value = 700;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"8",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+8,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46596,8 +46596,8 @@ value = "Noto Sans Hebrew Cond";
 interpolationWeight = 151;
 interpolationWidth = 79;
 instanceInterpolations = {
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.7;
 "206B8059-80C9-426C-870D-7DCC5D63B771" = 0.3;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.7;
 };
 isBold = 1;
 linkStyle = Condensed;
@@ -46609,21 +46609,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "800";
+value = 800;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"9",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+9,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46638,10 +46638,10 @@ value = "Noto Sans Hebrew Cond ExtBd";
 interpolationWeight = 169;
 interpolationWidth = 79;
 instanceInterpolations = {
-"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.311538;
-"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.15;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.15;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.388462;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.16154;
+"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.13846;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.37692;
+"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.32308;
 };
 name = "Condensed ExtraBold";
 weightClass = ExtraBold;
@@ -46651,21 +46651,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "900";
+value = 900;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"10",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+10,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46691,21 +46691,21 @@ widthClass = Condensed;
 customParameters = (
 {
 name = weightClass;
-value = "100";
+value = 100;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"2",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+2,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46720,8 +46720,8 @@ value = "Noto Sans Hebrew SemCond Thin";
 interpolationWeight = 26;
 interpolationWidth = 89;
 instanceInterpolations = {
-"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.633333;
-"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.366667;
+"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.63333;
+"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.36667;
 };
 name = "SemiCondensed Thin";
 weightClass = Thin;
@@ -46731,21 +46731,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "200";
+value = 200;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"3",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+3,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46760,10 +46760,10 @@ value = "Noto Sans Hebrew SemCond ExtLt";
 interpolationWeight = 39;
 interpolationWidth = 89;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.101562;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.101562;
-"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.265104;
-"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.531771;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.12865;
+"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.50469;
+"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.29219;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.07448;
 };
 name = "SemiCondensed ExtraLight";
 weightClass = "Extra Light";
@@ -46773,21 +46773,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "300";
+value = 300;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"4",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+4,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46802,10 +46802,10 @@ value = "Noto Sans Hebrew SemCond Light";
 interpolationWeight = 58;
 interpolationWidth = 89;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.316667;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.183333;
-"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.183333;
-"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.316667;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.31667;
+"1F954AD7-537E-453D-9D07-161C7E95D0AA" = 0.31667;
+"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.18333;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.18333;
 };
 name = "SemiCondensed Light";
 weightClass = Light;
@@ -46815,21 +46815,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "400";
+value = 400;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"5",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46844,8 +46844,8 @@ value = "Noto Sans Hebrew SemCond";
 interpolationWeight = 90;
 interpolationWidth = 89;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.633333;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.366667;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.63333;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.36667;
 };
 name = SemiCondensed;
 widthClass = SemiCondensed;
@@ -46854,21 +46854,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "500";
+value = 500;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"6",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+6,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46883,10 +46883,10 @@ value = "Noto Sans Hebrew SemCond Med";
 interpolationWeight = 108;
 interpolationWidth = 89;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.485792;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.147541;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.219126;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.147541;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.44645;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.18689;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.1082;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.25847;
 };
 name = "SemiCondensed Medium";
 weightClass = Medium;
@@ -46896,21 +46896,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "600";
+value = 600;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"7",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+7,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46925,10 +46925,10 @@ value = "Noto Sans Hebrew SemCond SemBd";
 interpolationWeight = 128;
 interpolationWidth = 89;
 instanceInterpolations = {
-"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.193716;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.439617;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.183333;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.183333;
+"0C04772A-F31D-4E86-90EF-3402D1EA39CA" = 0.2388;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.39454;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.22842;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.13825;
 };
 name = "SemiCondensed SemiBold";
 weightClass = SemiBold;
@@ -46938,21 +46938,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "700";
+value = 700;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"8",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+8,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -46967,8 +46967,8 @@ value = "Noto Sans Hebrew SemCond";
 interpolationWeight = 151;
 interpolationWidth = 89;
 instanceInterpolations = {
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.366667;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.633333;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.63333;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.36667;
 };
 isBold = 1;
 linkStyle = SemiCondensed;
@@ -46980,21 +46980,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "800";
+value = 800;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"9",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+9,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47009,10 +47009,10 @@ value = "Noto Sans Hebrew SemCond ExtBd";
 interpolationWeight = 169;
 interpolationWidth = 89;
 instanceInterpolations = {
-"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.183333;
-"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.278205;
-"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.355128;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.183333;
+"206B8059-80C9-426C-870D-7DCC5D63B771" = 0.34103;
+"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.29231;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.19744;
+"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.16923;
 };
 name = "SemiCondensed ExtraBold";
 weightClass = ExtraBold;
@@ -47022,21 +47022,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "900";
+value = 900;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"10",
-"2",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+10,
+2,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47051,8 +47051,8 @@ value = "Noto Sans Hebrew SemCond Blk";
 interpolationWeight = 190;
 interpolationWidth = 89;
 instanceInterpolations = {
-"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.633333;
-"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.366667;
+"3FB868F8-5CDC-4A46-BA32-95627737ABE0" = 0.63333;
+"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.36667;
 };
 name = "SemiCondensed Black";
 weightClass = Black;
@@ -47062,21 +47062,21 @@ widthClass = SemiCondensed;
 customParameters = (
 {
 name = weightClass;
-value = "100";
+value = 100;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"2",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+2,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47101,21 +47101,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "200";
+value = 200;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"3",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+3,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47130,8 +47130,8 @@ value = "Noto Sans Hebrew ExtCond ExtLt";
 interpolationWeight = 39;
 interpolationWidth = 70;
 instanceInterpolations = {
-"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.796875;
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.203125;
+"BD31AAF9-E65B-4A30-ACC0-7018B0C27C60" = 0.79688;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.20312;
 };
 name = "ExtraCondensed ExtraLight";
 weightClass = "Extra Light";
@@ -47141,21 +47141,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "300";
+value = 300;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"4",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+4,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47181,21 +47181,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "400";
+value = 400;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"5",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+5,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47219,21 +47219,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "500";
+value = 500;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"6",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+6,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47248,8 +47248,8 @@ value = "Noto Sans Hebrew ExtCond Med";
 interpolationWeight = 108;
 interpolationWidth = 70;
 instanceInterpolations = {
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.704918;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.295082;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.29508;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.70492;
 };
 name = "ExtraCondensed Medium";
 weightClass = Medium;
@@ -47259,21 +47259,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "600";
+value = 600;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"7",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+7,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47288,8 +47288,8 @@ value = "Noto Sans Hebrew ExtCond SemBd";
 interpolationWeight = 128;
 interpolationWidth = 70;
 instanceInterpolations = {
-"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.377049;
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.622951;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.62295;
+"E193C3F6-581C-4255-BA06-39B2C55FEA85" = 0.37705;
 };
 name = "ExtraCondensed SemiBold";
 weightClass = SemiBold;
@@ -47299,21 +47299,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "700";
+value = 700;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"8",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+8,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47340,21 +47340,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "800";
+value = 800;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"9",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+9,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {
@@ -47369,8 +47369,8 @@ value = "Noto Sans Hebrew ExtCond ExtBd";
 interpolationWeight = 169;
 interpolationWidth = 70;
 instanceInterpolations = {
-"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.538462;
-"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.461538;
+"4D9C3FAB-40EB-4CCF-A752-6D6FE9920038" = 0.53846;
+"AD6F6DAA-2D58-4E1D-98AF-ACAAF76D7B9E" = 0.46154;
 };
 name = "ExtraCondensed ExtraBold";
 weightClass = ExtraBold;
@@ -47380,21 +47380,21 @@ widthClass = "Extra Condensed";
 customParameters = (
 {
 name = weightClass;
-value = "900";
+value = 900;
 },
 {
 name = panose;
 value = (
-"2",
-"11",
-"10",
-"6",
-"4",
-"5",
-"4",
-"2",
-"2",
-"4"
+2,
+11,
+10,
+6,
+4,
+5,
+4,
+2,
+2,
+4
 );
 },
 {

@@ -1,5 +1,5 @@
 {
-.appVersion = "998";
+.appVersion = "1071";
 copyright = "Copyright 2017 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -276,7 +276,7 @@ value = (
 {
 name = codePageRanges;
 value = (
-"1252"
+1252
 );
 }
 );
@@ -362,16 +362,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"2",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+2,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -446,16 +446,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"5",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+5,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -524,16 +524,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"8",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+8,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -604,16 +604,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"10",
-"2",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+10,
+2,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -686,16 +686,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"2",
-"6",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+2,
+6,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -765,16 +765,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"5",
-"6",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+5,
+6,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -847,16 +847,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"8",
-"6",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+8,
+6,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -929,16 +929,16 @@ value = "536";
 {
 name = panose;
 value = (
-"2",
-"2",
-"10",
-"6",
-"6",
-"5",
-"5",
-"2",
-"2",
-"4"
+2,
+2,
+10,
+6,
+6,
+5,
+5,
+2,
+2,
+4
 );
 },
 {
@@ -11268,13 +11268,13 @@ unicode = 0B8F;
 userData = {
 com.typemytype.robofont.guides = (
 {
-angle = 226.9090;
+angle = 226.90900;
 isGlobal = 0;
 x = 1522;
 y = 28;
 },
 {
-angle = 226.9090;
+angle = 226.90900;
 isGlobal = 0;
 x = 1328;
 y = -4;
@@ -41756,13 +41756,13 @@ unicode = 0BB0;
 userData = {
 com.typemytype.robofont.guides = (
 {
-angle = 226.9090;
+angle = 226.90900;
 isGlobal = 0;
 x = 949;
 y = 28;
 },
 {
-angle = 226.9090;
+angle = 226.90900;
 isGlobal = 0;
 x = 755;
 y = -4;
@@ -201861,8 +201861,8 @@ value = "Noto Serif Tamil ExtLt";
 );
 interpolationWeight = 42;
 instanceInterpolations = {
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.212121;
-"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.787879;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.21212;
+"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.78788;
 };
 name = ExtraLight;
 weightClass = "Extra Light";
@@ -201903,8 +201903,8 @@ value = "Noto Serif Tamil Light";
 );
 interpolationWeight = 64;
 instanceInterpolations = {
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.545455;
-"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.454545;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.54545;
+"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.45455;
 };
 name = Light;
 weightClass = Light;
@@ -201981,8 +201981,8 @@ value = "Noto Serif Tamil Med";
 );
 interpolationWeight = 110;
 instanceInterpolations = {
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.275862;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.724138;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.72414;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.27586;
 };
 name = Medium;
 weightClass = Medium;
@@ -202023,8 +202023,8 @@ value = "Noto Serif Tamil SemBd";
 );
 interpolationWeight = 130;
 instanceInterpolations = {
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.62069;
 "4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.37931;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.62069;
 };
 name = SemiBold;
 weightClass = SemiBold;
@@ -202104,8 +202104,8 @@ value = "Noto Serif Tamil ExtBd";
 );
 interpolationWeight = 175;
 instanceInterpolations = {
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.452381;
-"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.547619;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.45238;
+"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.54762;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
@@ -202188,8 +202188,8 @@ value = "Noto Serif Tamil SemCond Thin";
 interpolationWeight = 28;
 interpolationWidth = 89;
 instanceInterpolations = {
-"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.366667;
-"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.633333;
+"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.36667;
+"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.63333;
 };
 name = "SemiCondensed Thin";
 weightClass = Thin;
@@ -202232,10 +202232,10 @@ value = "Noto Serif Tamil SemCond ExtLt";
 interpolationWeight = 42;
 interpolationWidth = 89;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.106061;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.106061;
-"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.260606;
-"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.527273;
+"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.28889;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.13434;
+"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.49899;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.07778;
 };
 name = "SemiCondensed ExtraLight";
 weightClass = "Extra Light";
@@ -202278,10 +202278,10 @@ value = "Noto Serif Tamil SemCond Light";
 interpolationWeight = 64;
 interpolationWidth = 89;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.183333;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.362121;
-"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.183333;
-"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.271212;
+"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.16667;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.34545;
+"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.28788;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.2;
 };
 name = "SemiCondensed Light";
 weightClass = Light;
@@ -202324,8 +202324,8 @@ value = "Noto Serif Tamil SemCond";
 interpolationWeight = 94;
 interpolationWidth = 89;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.366667;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.633333;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.63333;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.36667;
 };
 name = SemiCondensed;
 widthClass = SemiCondensed;
@@ -202367,10 +202367,10 @@ value = "Noto Serif Tamil SemCond Med";
 interpolationWeight = 110;
 interpolationWidth = 89;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.228736;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.495402;
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.137931;
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.137931;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.45862;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.17471;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.10115;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.26552;
 };
 name = "SemiCondensed Medium";
 weightClass = Medium;
@@ -202413,10 +202413,10 @@ value = "Noto Serif Tamil SemCond SemBd";
 interpolationWeight = 130;
 interpolationWidth = 89;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.183333;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.195977;
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.183333;
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.437356;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.24023;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.3931;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.22759;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.13908;
 };
 name = "SemiCondensed SemiBold";
 weightClass = SemiBold;
@@ -202459,8 +202459,8 @@ value = "Noto Serif Tamil SemCond";
 interpolationWeight = 152;
 interpolationWidth = 89;
 instanceInterpolations = {
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.366667;
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.633333;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.63333;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.36667;
 };
 isBold = 1;
 linkStyle = SemiCondensed;
@@ -202505,10 +202505,10 @@ value = "Noto Serif Tamil SemCond ExtBd";
 interpolationWeight = 175;
 interpolationWidth = 89;
 instanceInterpolations = {
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.183333;
-"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.183333;
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.269048;
-"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.364286;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.28651;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.16587;
+"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.20079;
+"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.34683;
 };
 name = "SemiCondensed ExtraBold";
 weightClass = ExtraBold;
@@ -202551,8 +202551,8 @@ value = "Noto Serif Tamil SemCond Blk";
 interpolationWeight = 194;
 interpolationWidth = 89;
 instanceInterpolations = {
-"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.366667;
-"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.633333;
+"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.36667;
+"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.63333;
 };
 name = "SemiCondensed Black";
 weightClass = Black;
@@ -202639,10 +202639,10 @@ value = "Noto Serif Tamil Cond ExtLt";
 interpolationWeight = 42;
 interpolationWidth = 79;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.106061;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.106061;
-"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.593939;
-"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.193939;
+"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.55152;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.06364;
+"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.23636;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.14848;
 };
 name = "Condensed ExtraLight";
 weightClass = "Extra Light";
@@ -202685,10 +202685,10 @@ value = "Noto Serif Tamil Cond Light";
 interpolationWeight = 64;
 interpolationWidth = 79;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.395455;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.15;
-"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.304545;
-"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.15;
+"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.31818;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.16364;
+"D0548234-3561-42A9-B3C3-E652CCB04E43" = 0.13636;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.38182;
 };
 name = "Condensed Light";
 weightClass = Light;
@@ -202731,8 +202731,8 @@ value = "Noto Serif Tamil Cond";
 interpolationWeight = 94;
 interpolationWidth = 79;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.7;
 "4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.3;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.7;
 };
 name = Condensed;
 widthClass = Condensed;
@@ -202774,10 +202774,10 @@ value = "Noto Serif Tamil Cond Med";
 interpolationWeight = 110;
 interpolationWidth = 79;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.562069;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.162069;
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.137931;
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.137931;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.21724;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.08276;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.1931;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.5069;
 };
 name = "Condensed Medium";
 weightClass = Medium;
@@ -202820,10 +202820,10 @@ value = "Noto Serif Tamil Cond SemBd";
 interpolationWeight = 130;
 interpolationWidth = 79;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.22931;
-"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.15;
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.47069;
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.15;
+"4EF80F22-2859-4B6B-96B0-AD27D3E17A73" = 0.11379;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.18621;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.43448;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.26552;
 };
 name = "Condensed SemiBold";
 weightClass = SemiBold;
@@ -202866,8 +202866,8 @@ value = "Noto Serif Tamil Cond";
 interpolationWeight = 152;
 interpolationWidth = 79;
 instanceInterpolations = {
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.7;
 "6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.3;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.7;
 };
 isBold = 1;
 linkStyle = Condensed;
@@ -202912,10 +202912,10 @@ value = "Noto Serif Tamil Cond ExtBd";
 interpolationWeight = 175;
 interpolationWidth = 79;
 instanceInterpolations = {
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.302381;
-"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.397619;
-"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.15;
-"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.15;
+"6FE80A45-50D2-4FF4-BE3F-8907256D2442" = 0.13571;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.31667;
+"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.38333;
+"EA4E90E0-22E0-479F-9C50-7EB0BA1476EF" = 0.16429;
 };
 name = "Condensed ExtraBold";
 weightClass = ExtraBold;
@@ -203045,8 +203045,8 @@ value = "Noto Serif Tamil ExtCond ExtLt";
 interpolationWeight = 42;
 interpolationWidth = 70;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.212121;
-"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.787879;
+"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.78788;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.21212;
 };
 name = "ExtraCondensed ExtraLight";
 weightClass = "Extra Light";
@@ -203089,8 +203089,8 @@ value = "Noto Serif Tamil ExtCond Light";
 interpolationWeight = 64;
 interpolationWidth = 70;
 instanceInterpolations = {
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.545455;
-"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.454545;
+"1AB495CF-1D72-4956-8021-3A492C1949B9" = 0.45455;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.54545;
 };
 name = "ExtraCondensed Light";
 weightClass = Light;
@@ -203175,8 +203175,8 @@ value = "Noto Serif Tamil ExtCond Med";
 interpolationWeight = 110;
 interpolationWidth = 70;
 instanceInterpolations = {
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.275862;
-"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.724138;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.27586;
+"E52398ED-EADE-4D04-BA23-C13DC2C470E8" = 0.72414;
 };
 name = "ExtraCondensed Medium";
 weightClass = Medium;
@@ -203308,8 +203308,8 @@ value = "Noto Serif Tamil ExtCond ExtBd";
 interpolationWeight = 175;
 interpolationWidth = 70;
 instanceInterpolations = {
-"B767A243-990F-44DB-98BA-254A05D1622E" = 0.452381;
-"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.547619;
+"B767A243-990F-44DB-98BA-254A05D1622E" = 0.45238;
+"BE0E5BB1-3420-4D59-9307-016FFDF5F8C8" = 0.54762;
 };
 name = "ExtraCondensed ExtraBold";
 weightClass = ExtraBold;
@@ -203482,7 +203482,7 @@ quotedbl = 29.2969;
 "@MMK_R_quotesingle" = -14.6484;
 };
 "@MMK_L_quoteleft" = {
-"@MMK_R_a-tamil" = -268.555;
+"@MMK_R_a-tamil" = -268.55499;
 "@MMK_R_e-tamil" = -19.5312;
 "@MMK_R_ka-tamil" = -78.125;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -203492,7 +203492,7 @@ quotedbl = 29.2969;
 "@MMK_R_visarga-tamil" = -29.2969;
 };
 "@MMK_L_quotesingle" = {
-"@MMK_R_a-tamil" = -253.906;
+"@MMK_R_a-tamil" = -253.90601;
 "@MMK_R_e-tamil" = -14.6484;
 "@MMK_R_ka-tamil" = -73.2422;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -203744,7 +203744,7 @@ quotedbl = -24.4141;
 "@MMK_R_quotesingle" = -14.6484;
 };
 "@MMK_L_quoteleft" = {
-"@MMK_R_a-tamil" = -268.555;
+"@MMK_R_a-tamil" = -268.55499;
 "@MMK_R_e-tamil" = -19.5312;
 "@MMK_R_ka-tamil" = -73.2422;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -203754,7 +203754,7 @@ quotedbl = -24.4141;
 "@MMK_R_visarga-tamil" = -29.2969;
 };
 "@MMK_L_quotesingle" = {
-"@MMK_R_a-tamil" = -253.906;
+"@MMK_R_a-tamil" = -253.90601;
 "@MMK_R_e-tamil" = -14.6484;
 "@MMK_R_ka-tamil" = -73.2422;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -203917,8 +203917,8 @@ quotedblright = 2.44141;
 "@MMK_R_nya-tamil" = -34.1797;
 "@MMK_R_o-tamil" = -29.2969;
 "@MMK_R_parenright" = 9.76562;
-"@MMK_R_quoteright" = -141.602;
-"@MMK_R_quotesingle" = -141.602;
+"@MMK_R_quoteright" = -141.60201;
+"@MMK_R_quotesingle" = -141.60201;
 "@MMK_R_rupee-tamil" = -24.4141;
 "@MMK_R_ya-tamil" = -29.2969;
 "lu-tamil" = 9.76562;
@@ -204045,7 +204045,7 @@ slash = -9.76562;
 "@MMK_R_quotesingle" = -24.4141;
 };
 "@MMK_L_quoteleft" = {
-"@MMK_R_a-tamil" = -268.555;
+"@MMK_R_a-tamil" = -268.55499;
 "@MMK_R_e-tamil" = -19.5312;
 "@MMK_R_ka-tamil" = -63.4766;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -204055,7 +204055,7 @@ slash = -9.76562;
 "@MMK_R_visarga-tamil" = -29.2969;
 };
 "@MMK_L_quotesingle" = {
-"@MMK_R_a-tamil" = -253.906;
+"@MMK_R_a-tamil" = -253.90601;
 "@MMK_R_e-tamil" = -24.4141;
 "@MMK_R_ka-tamil" = -83.0078;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -204213,8 +204213,8 @@ slash = -9.76562;
 "@MMK_R_nya-tamil" = -34.1797;
 "@MMK_R_o-tamil" = -29.2969;
 "@MMK_R_parenright" = 9.76562;
-"@MMK_R_quoteright" = -141.602;
-"@MMK_R_quotesingle" = -141.602;
+"@MMK_R_quoteright" = -141.60201;
+"@MMK_R_quotesingle" = -141.60201;
 "@MMK_R_rupee-tamil" = -24.4141;
 "@MMK_R_ya-tamil" = -29.2969;
 "lu-tamil" = 9.76562;
@@ -204342,7 +204342,7 @@ slash = -9.76562;
 "@MMK_R_quotesingle" = -24.4141;
 };
 "@MMK_L_quoteleft" = {
-"@MMK_R_a-tamil" = -268.555;
+"@MMK_R_a-tamil" = -268.55499;
 "@MMK_R_e-tamil" = -19.5312;
 "@MMK_R_ka-tamil" = -63.4766;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -204352,7 +204352,7 @@ slash = -9.76562;
 "@MMK_R_visarga-tamil" = -29.2969;
 };
 "@MMK_L_quotesingle" = {
-"@MMK_R_a-tamil" = -253.906;
+"@MMK_R_a-tamil" = -253.90601;
 "@MMK_R_e-tamil" = -24.4141;
 "@MMK_R_ka-tamil" = -78.125;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -205087,8 +205087,8 @@ quotedblright = 34.1797;
 "@MMK_R_ka-tamil" = -19.5312;
 "@MMK_R_o-tamil" = -29.2969;
 "@MMK_R_parenright" = 9.76562;
-"@MMK_R_quoteright" = -141.602;
-"@MMK_R_quotesingle" = -141.602;
+"@MMK_R_quoteright" = -141.60201;
+"@MMK_R_quotesingle" = -141.60201;
 "@MMK_R_rupee-tamil" = -24.4141;
 "@MMK_R_slash" = 39.0625;
 "ta-tamil" = -4.88281;
@@ -205214,7 +205214,7 @@ question = 24.4141;
 "@MMK_R_quotesingle" = -24.4141;
 };
 "@MMK_L_quoteleft" = {
-"@MMK_R_a-tamil" = -268.555;
+"@MMK_R_a-tamil" = -268.55499;
 "@MMK_R_e-tamil" = -19.5312;
 "@MMK_R_ka-tamil" = -53.7109;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -205224,7 +205224,7 @@ question = 24.4141;
 "@MMK_R_visarga-tamil" = -39.0625;
 };
 "@MMK_L_quotesingle" = {
-"@MMK_R_a-tamil" = -253.906;
+"@MMK_R_a-tamil" = -253.90601;
 "@MMK_R_e-tamil" = -24.4141;
 "@MMK_R_ka-tamil" = -63.4766;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -205387,8 +205387,8 @@ quotedblright = 34.1797;
 "@MMK_R_ka-tamil" = -19.5312;
 "@MMK_R_o-tamil" = -29.2969;
 "@MMK_R_parenright" = 9.76562;
-"@MMK_R_quoteright" = -141.602;
-"@MMK_R_quotesingle" = -141.602;
+"@MMK_R_quoteright" = -141.60201;
+"@MMK_R_quotesingle" = -141.60201;
 "@MMK_R_rupee-tamil" = -24.4141;
 "@MMK_R_slash" = 39.0625;
 "ta-tamil" = -4.88281;
@@ -205431,7 +205431,7 @@ question = 19.5312;
 "@MMK_R_a-tamil" = -14.6484;
 };
 "@MMK_L_iiMatra-tamil" = {
-"@MMK_R_T" = 136.719;
+"@MMK_R_T" = 136.71899;
 };
 "@MMK_L_ka-tamil" = {
 "@MMK_R_T" = -63.4766;
@@ -205518,7 +205518,7 @@ question = 19.5312;
 "@MMK_R_quotesingle" = -24.4141;
 };
 "@MMK_L_quoteleft" = {
-"@MMK_R_a-tamil" = -268.555;
+"@MMK_R_a-tamil" = -268.55499;
 "@MMK_R_e-tamil" = -19.5312;
 "@MMK_R_ka-tamil" = -58.5938;
 "@MMK_R_nya-tamil" = -34.1797;
@@ -205528,7 +205528,7 @@ question = 19.5312;
 "@MMK_R_visarga-tamil" = -39.0625;
 };
 "@MMK_L_quotesingle" = {
-"@MMK_R_a-tamil" = -253.906;
+"@MMK_R_a-tamil" = -253.90601;
 "@MMK_R_e-tamil" = -24.4141;
 "@MMK_R_ka-tamil" = -68.3594;
 "@MMK_R_nya-tamil" = -34.1797;

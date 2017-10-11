@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "1071";
 copyright = "Copyright 2016 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -706,6 +706,8 @@ value = "Version 2.000";
 date = "2016-08-23 10:20:00 +0000";
 designer = "Jelle Bosma - Monotype Design Team";
 designerURL = "http://www.monotype.com/studio";
+disablesAutomaticAlignment = 1;
+disablesNiceNames = 1;
 familyName = "Noto Serif Sinhala";
 fontMaster = (
 {
@@ -146303,8 +146305,6 @@ width = 622;
 unicode = 25CC;
 }
 );
-disablesAutomaticAlignment = 1;
-disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
@@ -146328,7 +146328,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146369,7 +146369,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146383,8 +146383,8 @@ value = "Noto Serif Sinhala ExtLt";
 );
 interpolationWeight = 42;
 instanceInterpolations = {
-UUID0 = 0.212121;
-"AF791F9F-5317-4D76-BDD4-1652E63983EA" = 0.787879;
+"AF791F9F-5317-4D76-BDD4-1652E63983EA" = 0.78788;
+UUID0 = 0.21212;
 };
 name = ExtraLight;
 weightClass = "Extra Light";
@@ -146411,7 +146411,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146425,8 +146425,8 @@ value = "Noto Serif Sinhala Light";
 );
 interpolationWeight = 64;
 instanceInterpolations = {
-UUID0 = 0.545455;
-"AF791F9F-5317-4D76-BDD4-1652E63983EA" = 0.454545;
+"AF791F9F-5317-4D76-BDD4-1652E63983EA" = 0.45455;
+UUID0 = 0.54545;
 };
 name = Light;
 weightClass = Light;
@@ -146453,7 +146453,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146489,7 +146489,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146503,8 +146503,8 @@ value = "Noto Serif Sinhala Med";
 );
 interpolationWeight = 110;
 instanceInterpolations = {
-UUID0 = 0.84;
 "32AB916E-052E-46AB-9DD5-C403DD480EC5" = 0.16;
+UUID0 = 0.84;
 };
 name = Medium;
 weightClass = Medium;
@@ -146531,7 +146531,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146545,8 +146545,8 @@ value = "Noto Serif Sinhala SemBd";
 );
 interpolationWeight = 130;
 instanceInterpolations = {
-UUID0 = 0.64;
 "32AB916E-052E-46AB-9DD5-C403DD480EC5" = 0.36;
+UUID0 = 0.64;
 };
 name = SemiBold;
 weightClass = SemiBold;
@@ -146573,7 +146573,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146583,8 +146583,8 @@ value = 536;
 );
 interpolationWeight = 152;
 instanceInterpolations = {
-UUID0 = 0.42;
 "32AB916E-052E-46AB-9DD5-C403DD480EC5" = 0.58;
+UUID0 = 0.42;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -146613,7 +146613,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
@@ -146627,8 +146627,8 @@ value = "Noto Serif Sinhala ExtBd";
 );
 interpolationWeight = 175;
 instanceInterpolations = {
-UUID0 = 0.19;
 "32AB916E-052E-46AB-9DD5-C403DD480EC5" = 0.81;
+UUID0 = 0.19;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
@@ -146655,7 +146655,7 @@ value = (
 );
 },
 {
-name = "Don’t use Production Names";
+name = "Don't use Production Names";
 value = 1;
 },
 {
