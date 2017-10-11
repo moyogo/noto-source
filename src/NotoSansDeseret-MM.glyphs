@@ -1,8 +1,5 @@
 {
-.appVersion = "961";
-DisplayStrings = (
-/uni10447
-);
+.appVersion = "1064";
 copyright = "Copyright 2017 Google Inc. All Rights Reserved.";
 customParameters = (
 {

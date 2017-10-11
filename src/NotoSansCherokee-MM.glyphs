@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "1064";
 copyright = "Copyright 2016 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -316,6 +316,7 @@ value = "Version 2.000";
 date = "2016-10-07 10:31:11 +0000";
 designer = "Monotype Design Team";
 designerURL = "http://www.monotype.com/studio";
+disablesNiceNames = 1;
 familyName = "Noto Sans Cherokee";
 featurePrefixes = (
 {
@@ -35856,7 +35857,6 @@ nodes = (
 );
 }
 );
-width = 701;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -35864,6 +35864,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 701;
 },
 {
 anchors = (
@@ -35911,7 +35912,6 @@ nodes = (
 );
 }
 );
-width = 739;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -35920,6 +35920,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 739;
 },
 {
 anchors = (
@@ -35967,7 +35968,6 @@ nodes = (
 );
 }
 );
-width = 745;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -35975,6 +35975,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 745;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -36063,7 +36064,6 @@ nodes = (
 );
 }
 );
-width = 642;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36071,6 +36071,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 642;
 },
 {
 anchors = (
@@ -36144,7 +36145,6 @@ nodes = (
 );
 }
 );
-width = 677;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36153,6 +36153,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 677;
 },
 {
 anchors = (
@@ -36226,7 +36227,6 @@ nodes = (
 );
 }
 );
-width = 731;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -36234,6 +36234,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 731;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -36284,7 +36285,6 @@ nodes = (
 );
 }
 );
-width = 564;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36292,6 +36292,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 564;
 },
 {
 anchors = (
@@ -36328,7 +36329,6 @@ nodes = (
 );
 }
 );
-width = 640;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36337,6 +36337,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 640;
 },
 {
 anchors = (
@@ -36373,7 +36374,6 @@ nodes = (
 );
 }
 );
-width = 680;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -36381,6 +36381,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 680;
 }
 );
 leftKerningGroup = uni13A2.alt;
@@ -36472,7 +36473,6 @@ nodes = (
 );
 }
 );
-width = 802;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36480,6 +36480,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 802;
 },
 {
 anchors = (
@@ -36558,7 +36559,6 @@ nodes = (
 );
 }
 );
-width = 809;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36567,6 +36567,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 809;
 },
 {
 anchors = (
@@ -36645,7 +36646,6 @@ nodes = (
 );
 }
 );
-width = 847;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -36653,6 +36653,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 847;
 }
 );
 note = uni13A3;
@@ -36745,7 +36746,6 @@ nodes = (
 );
 }
 );
-width = 983;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36753,6 +36753,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 983;
 },
 {
 anchors = (
@@ -36833,7 +36834,6 @@ nodes = (
 );
 }
 );
-width = 1014;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36842,6 +36842,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 1014;
 },
 {
 anchors = (
@@ -36922,7 +36923,6 @@ nodes = (
 );
 }
 );
-width = 1059;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -36930,6 +36930,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1059;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -36989,7 +36990,6 @@ nodes = (
 );
 }
 );
-width = 293;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -36997,6 +36997,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 293;
 },
 {
 anchors = (
@@ -37042,7 +37043,6 @@ nodes = (
 );
 }
 );
-width = 321;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37051,6 +37051,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 321;
 },
 {
 anchors = (
@@ -37096,7 +37097,6 @@ nodes = (
 );
 }
 );
-width = 422;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -37104,6 +37104,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 422;
 }
 );
 note = uni13A5;
@@ -37204,7 +37205,6 @@ nodes = (
 );
 }
 );
-width = 554;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37212,6 +37212,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 554;
 },
 {
 anchors = (
@@ -37300,7 +37301,6 @@ nodes = (
 );
 }
 );
-width = 648;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37309,6 +37309,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 648;
 },
 {
 anchors = (
@@ -37397,7 +37398,6 @@ nodes = (
 );
 }
 );
-width = 620;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -37405,6 +37405,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 620;
 }
 );
 leftKerningGroup = uni13DA.alt;
@@ -37489,7 +37490,6 @@ nodes = (
 );
 }
 );
-width = 754;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37497,6 +37497,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 754;
 },
 {
 anchors = (
@@ -37568,7 +37569,6 @@ nodes = (
 );
 }
 );
-width = 761;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37577,6 +37577,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 761;
 },
 {
 anchors = (
@@ -37648,7 +37649,6 @@ nodes = (
 );
 }
 );
-width = 810;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -37656,6 +37656,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 810;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -37719,7 +37720,6 @@ nodes = (
 );
 }
 );
-width = 620;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37727,6 +37727,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 620;
 },
 {
 anchors = (
@@ -37776,7 +37777,6 @@ nodes = (
 );
 }
 );
-width = 664;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37785,6 +37785,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 664;
 },
 {
 anchors = (
@@ -37834,7 +37835,6 @@ nodes = (
 );
 }
 );
-width = 754;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -37842,6 +37842,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 754;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -37919,7 +37920,6 @@ nodes = (
 );
 }
 );
-width = 679;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37927,6 +37927,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 679;
 },
 {
 anchors = (
@@ -37989,7 +37990,6 @@ nodes = (
 );
 }
 );
-width = 693;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -37998,6 +37998,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 693;
 },
 {
 anchors = (
@@ -38060,7 +38061,6 @@ nodes = (
 );
 }
 );
-width = 670;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -38068,6 +38068,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 670;
 }
 );
 note = uni13A9;
@@ -38131,7 +38132,6 @@ nodes = (
 );
 }
 );
-width = 666;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38139,6 +38139,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 666;
 },
 {
 anchors = (
@@ -38190,7 +38191,6 @@ nodes = (
 );
 }
 );
-width = 692;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38199,6 +38199,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 692;
 },
 {
 anchors = (
@@ -38250,7 +38251,6 @@ nodes = (
 );
 }
 );
-width = 714;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -38258,6 +38258,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 714;
 }
 );
 note = uni13AA;
@@ -38318,7 +38319,6 @@ nodes = (
 );
 }
 );
-width = 531;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38326,6 +38326,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 531;
 },
 {
 anchors = (
@@ -38374,7 +38375,6 @@ nodes = (
 );
 }
 );
-width = 551;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38383,6 +38383,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 551;
 },
 {
 anchors = (
@@ -38431,7 +38432,6 @@ nodes = (
 );
 }
 );
-width = 616;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -38439,6 +38439,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 616;
 }
 );
 note = uni13AB;
@@ -38497,7 +38498,6 @@ nodes = (
 );
 }
 );
-width = 624;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38505,6 +38505,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 624;
 },
 {
 anchors = (
@@ -38549,7 +38550,6 @@ nodes = (
 );
 }
 );
-width = 651;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38558,6 +38558,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 651;
 },
 {
 anchors = (
@@ -38602,7 +38603,6 @@ nodes = (
 );
 }
 );
-width = 682;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -38610,6 +38610,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 682;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -38698,7 +38699,6 @@ nodes = (
 );
 }
 );
-width = 899;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38706,6 +38706,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 899;
 },
 {
 anchors = (
@@ -38780,7 +38781,6 @@ nodes = (
 );
 }
 );
-width = 932;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38789,6 +38789,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 932;
 },
 {
 anchors = (
@@ -38863,7 +38864,6 @@ nodes = (
 );
 }
 );
-width = 1080;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -38871,6 +38871,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1080;
 }
 );
 note = uni13AD;
@@ -38938,7 +38939,6 @@ nodes = (
 );
 }
 );
-width = 556;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -38946,6 +38946,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 556;
 },
 {
 anchors = (
@@ -39000,7 +39001,6 @@ nodes = (
 );
 }
 );
-width = 584;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39009,6 +39009,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 584;
 },
 {
 anchors = (
@@ -39063,7 +39064,6 @@ nodes = (
 );
 }
 );
-width = 669;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -39071,6 +39071,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 669;
 }
 );
 leftMetricsKey = uni13BB.alt;
@@ -39160,7 +39161,6 @@ nodes = (
 );
 }
 );
-width = 668;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39168,6 +39168,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 668;
 },
 {
 anchors = (
@@ -39243,7 +39244,6 @@ nodes = (
 );
 }
 );
-width = 717;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39252,6 +39252,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 717;
 },
 {
 anchors = (
@@ -39327,7 +39328,6 @@ nodes = (
 );
 }
 );
-width = 858;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -39335,6 +39335,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 858;
 }
 );
 leftKerningGroup = uni13AF.alt;
@@ -39388,7 +39389,6 @@ nodes = (
 );
 }
 );
-width = 556;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39396,6 +39396,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 556;
 },
 {
 anchors = (
@@ -39436,7 +39437,6 @@ nodes = (
 );
 }
 );
-width = 566;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39445,6 +39445,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 566;
 },
 {
 anchors = (
@@ -39485,7 +39486,6 @@ nodes = (
 );
 }
 );
-width = 592;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -39493,6 +39493,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 592;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -39542,7 +39543,6 @@ nodes = (
 );
 }
 );
-width = 575;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39550,6 +39550,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 575;
 },
 {
 anchors = (
@@ -39584,7 +39585,6 @@ nodes = (
 );
 }
 );
-width = 594;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39593,6 +39593,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 594;
 },
 {
 anchors = (
@@ -39627,7 +39628,6 @@ nodes = (
 );
 }
 );
-width = 631;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -39635,6 +39635,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 631;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -39734,7 +39735,6 @@ nodes = (
 );
 }
 );
-width = 837;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39742,6 +39742,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 837;
 },
 {
 anchors = (
@@ -39827,7 +39828,6 @@ nodes = (
 );
 }
 );
-width = 846;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -39836,6 +39836,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 846;
 },
 {
 anchors = (
@@ -39921,7 +39922,6 @@ nodes = (
 );
 }
 );
-width = 964;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -39929,6 +39929,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 964;
 }
 );
 leftKerningGroup = uni13EA.alt;
@@ -40009,7 +40010,6 @@ nodes = (
 );
 }
 );
-width = 904;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40017,6 +40017,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 904;
 },
 {
 anchors = (
@@ -40084,7 +40085,6 @@ nodes = (
 );
 }
 );
-width = 989;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40093,6 +40093,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 989;
 },
 {
 anchors = (
@@ -40160,7 +40161,6 @@ nodes = (
 );
 }
 );
-width = 1045;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -40168,6 +40168,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1045;
 }
 );
 note = uni13B3;
@@ -40256,7 +40257,6 @@ nodes = (
 );
 }
 );
-width = 647;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40264,6 +40264,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 647;
 },
 {
 anchors = (
@@ -40340,7 +40341,6 @@ nodes = (
 );
 }
 );
-width = 720;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40349,6 +40349,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 720;
 },
 {
 anchors = (
@@ -40425,7 +40426,6 @@ nodes = (
 );
 }
 );
-width = 777;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -40433,6 +40433,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 777;
 }
 );
 note = uni13B4;
@@ -40499,7 +40500,6 @@ nodes = (
 );
 }
 );
-width = 601;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40507,6 +40507,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 601;
 },
 {
 anchors = (
@@ -40561,7 +40562,6 @@ nodes = (
 );
 }
 );
-width = 630;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40570,6 +40570,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 630;
 },
 {
 anchors = (
@@ -40624,7 +40625,6 @@ nodes = (
 );
 }
 );
-width = 686;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -40632,6 +40632,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 686;
 }
 );
 leftKerningGroup = uni13B5.alt;
@@ -40705,7 +40706,6 @@ nodes = (
 );
 }
 );
-width = 630;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40713,6 +40713,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 630;
 },
 {
 anchors = (
@@ -40771,7 +40772,6 @@ nodes = (
 );
 }
 );
-width = 652;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40780,6 +40780,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 652;
 },
 {
 anchors = (
@@ -40838,7 +40839,6 @@ nodes = (
 );
 }
 );
-width = 681;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -40846,6 +40846,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 681;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -40920,7 +40921,6 @@ nodes = (
 );
 }
 );
-width = 879;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40928,6 +40928,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 879;
 },
 {
 anchors = (
@@ -40988,7 +40989,6 @@ nodes = (
 );
 }
 );
-width = 927;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -40997,6 +40997,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 927;
 },
 {
 anchors = (
@@ -41057,7 +41058,6 @@ nodes = (
 );
 }
 );
-width = 1028;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -41065,6 +41065,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1028;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -41149,7 +41150,6 @@ nodes = (
 );
 }
 );
-width = 706;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41157,6 +41157,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 706;
 },
 {
 anchors = (
@@ -41225,7 +41226,6 @@ nodes = (
 );
 }
 );
-width = 750;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41234,6 +41234,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 750;
 },
 {
 anchors = (
@@ -41302,7 +41303,6 @@ nodes = (
 );
 }
 );
-width = 830;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -41310,6 +41310,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 830;
 }
 );
 note = uni13B8;
@@ -41429,7 +41430,6 @@ nodes = (
 );
 }
 );
-width = 908;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41437,6 +41437,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 908;
 },
 {
 anchors = (
@@ -41543,7 +41544,6 @@ nodes = (
 );
 }
 );
-width = 920;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41552,6 +41552,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 920;
 },
 {
 anchors = (
@@ -41658,7 +41659,6 @@ nodes = (
 );
 }
 );
-width = 1026;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -41666,6 +41666,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1026;
 }
 );
 note = uni13B9;
@@ -41735,7 +41736,6 @@ nodes = (
 );
 }
 );
-width = 968;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41743,6 +41743,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 968;
 },
 {
 anchors = (
@@ -41799,7 +41800,6 @@ nodes = (
 );
 }
 );
-width = 975;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41808,6 +41808,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 975;
 },
 {
 anchors = (
@@ -41864,7 +41865,6 @@ nodes = (
 );
 }
 );
-width = 1003;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -41872,6 +41872,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1003;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -41934,7 +41935,6 @@ nodes = (
 );
 }
 );
-width = 763;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41942,6 +41942,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 763;
 },
 {
 anchors = (
@@ -41990,7 +41991,6 @@ nodes = (
 );
 }
 );
-width = 784;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -41999,6 +41999,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 784;
 },
 {
 anchors = (
@@ -42047,7 +42048,6 @@ nodes = (
 );
 }
 );
-width = 809;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -42055,6 +42055,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 809;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -42128,7 +42129,6 @@ nodes = (
 );
 }
 );
-width = 758;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42136,6 +42136,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 758;
 },
 {
 anchors = (
@@ -42195,7 +42196,6 @@ nodes = (
 );
 }
 );
-width = 747;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42204,6 +42204,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 747;
 },
 {
 anchors = (
@@ -42263,7 +42264,6 @@ nodes = (
 );
 }
 );
-width = 865;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -42271,6 +42271,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 865;
 }
 );
 note = uni13BC;
@@ -42337,7 +42338,6 @@ nodes = (
 );
 }
 );
-width = 714;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42345,6 +42345,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 714;
 },
 {
 anchors = (
@@ -42399,7 +42400,6 @@ nodes = (
 );
 }
 );
-width = 743;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42408,6 +42408,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 743;
 },
 {
 anchors = (
@@ -42462,7 +42463,6 @@ nodes = (
 );
 }
 );
-width = 731;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -42470,6 +42470,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 731;
 }
 );
 note = uni13BD;
@@ -42538,7 +42539,6 @@ nodes = (
 );
 }
 );
-width = 710;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42546,6 +42546,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 710;
 },
 {
 anchors = (
@@ -42602,7 +42603,6 @@ nodes = (
 );
 }
 );
-width = 716;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42611,6 +42611,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 716;
 },
 {
 anchors = (
@@ -42667,7 +42668,6 @@ nodes = (
 );
 }
 );
-width = 740;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -42675,6 +42675,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 740;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -42742,7 +42743,6 @@ nodes = (
 );
 }
 );
-width = 698;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42750,6 +42750,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 698;
 },
 {
 anchors = (
@@ -42803,7 +42804,6 @@ nodes = (
 );
 }
 );
-width = 718;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42812,6 +42812,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 718;
 },
 {
 anchors = (
@@ -42865,7 +42866,6 @@ nodes = (
 );
 }
 );
-width = 770;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -42873,6 +42873,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 770;
 }
 );
 note = uni13BF;
@@ -42941,7 +42942,6 @@ nodes = (
 );
 }
 );
-width = 690;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -42949,6 +42949,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 690;
 },
 {
 anchors = (
@@ -43005,7 +43006,6 @@ nodes = (
 );
 }
 );
-width = 717;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43014,6 +43014,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 717;
 },
 {
 anchors = (
@@ -43070,7 +43071,6 @@ nodes = (
 );
 }
 );
-width = 726;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -43078,6 +43078,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 726;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -43149,7 +43150,6 @@ nodes = (
 );
 }
 );
-width = 716;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43157,6 +43157,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 716;
 },
 {
 anchors = (
@@ -43214,7 +43215,6 @@ nodes = (
 );
 }
 );
-width = 772;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43223,6 +43223,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 772;
 },
 {
 anchors = (
@@ -43280,7 +43281,6 @@ nodes = (
 );
 }
 );
-width = 869;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -43288,6 +43288,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 869;
 }
 );
 leftKerningGroup = uni13AF.alt;
@@ -43358,7 +43359,6 @@ nodes = (
 );
 }
 );
-width = 712;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43366,6 +43366,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 712;
 },
 {
 anchors = (
@@ -43422,7 +43423,6 @@ nodes = (
 );
 }
 );
-width = 719;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43431,6 +43431,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 719;
 },
 {
 anchors = (
@@ -43487,7 +43488,6 @@ nodes = (
 );
 }
 );
-width = 784;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -43495,6 +43495,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 784;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -43543,7 +43544,6 @@ nodes = (
 );
 }
 );
-width = 576;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43551,6 +43551,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 576;
 },
 {
 anchors = (
@@ -43585,7 +43586,6 @@ nodes = (
 );
 }
 );
-width = 588;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43594,6 +43594,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 588;
 },
 {
 anchors = (
@@ -43628,7 +43629,6 @@ nodes = (
 );
 }
 );
-width = 605;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -43636,6 +43636,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 605;
 }
 );
 note = uni13C3;
@@ -43713,7 +43714,6 @@ nodes = (
 );
 }
 );
-width = 669;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43721,6 +43721,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 669;
 },
 {
 anchors = (
@@ -43786,7 +43787,6 @@ nodes = (
 );
 }
 );
-width = 677;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43795,6 +43795,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 677;
 },
 {
 anchors = (
@@ -43860,7 +43861,6 @@ nodes = (
 );
 }
 );
-width = 755;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -43868,6 +43868,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 755;
 }
 );
 note = uni13C4;
@@ -43946,7 +43947,6 @@ nodes = (
 );
 }
 );
-width = 992;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -43954,6 +43954,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 992;
 },
 {
 anchors = (
@@ -44019,7 +44020,6 @@ nodes = (
 );
 }
 );
-width = 1038;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44028,6 +44028,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 1038;
 },
 {
 anchors = (
@@ -44093,7 +44094,6 @@ nodes = (
 );
 }
 );
-width = 1074;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -44101,6 +44101,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1074;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -44156,7 +44157,6 @@ nodes = (
 );
 }
 );
-width = 621;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44164,6 +44164,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 621;
 },
 {
 anchors = (
@@ -44204,7 +44205,6 @@ nodes = (
 );
 }
 );
-width = 707;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44213,6 +44213,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 707;
 },
 {
 anchors = (
@@ -44253,7 +44254,6 @@ nodes = (
 );
 }
 );
-width = 721;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -44261,6 +44261,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 721;
 }
 );
 note = uni13C6;
@@ -44345,7 +44346,6 @@ nodes = (
 );
 }
 );
-width = 944;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44353,6 +44353,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 944;
 },
 {
 anchors = (
@@ -44425,7 +44426,6 @@ nodes = (
 );
 }
 );
-width = 957;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44434,6 +44434,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 957;
 },
 {
 anchors = (
@@ -44506,7 +44507,6 @@ nodes = (
 );
 }
 );
-width = 995;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -44514,6 +44514,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 995;
 }
 );
 leftKerningGroup = uni13C7.alt;
@@ -44615,7 +44616,6 @@ nodes = (
 );
 }
 );
-width = 808;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44623,6 +44623,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 808;
 },
 {
 anchors = (
@@ -44710,7 +44711,6 @@ nodes = (
 );
 }
 );
-width = 810;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44719,6 +44719,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 810;
 },
 {
 anchors = (
@@ -44806,7 +44807,6 @@ nodes = (
 );
 }
 );
-width = 952;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -44814,6 +44814,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 952;
 }
 );
 note = uni13C8;
@@ -44938,7 +44939,6 @@ nodes = (
 );
 }
 );
-width = 1172;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -44946,6 +44946,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 1172;
 },
 {
 anchors = (
@@ -45058,7 +45059,6 @@ nodes = (
 );
 }
 );
-width = 1207;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -45067,6 +45067,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 1207;
 },
 {
 anchors = (
@@ -45179,7 +45180,6 @@ nodes = (
 );
 }
 );
-width = 1287;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -45187,6 +45187,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1287;
 }
 );
 note = uni13C9;
@@ -45287,7 +45288,6 @@ nodes = (
 );
 }
 );
-width = 975;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -45295,6 +45295,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 975;
 },
 {
 anchors = (
@@ -45382,7 +45383,6 @@ nodes = (
 );
 }
 );
-width = 991;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -45391,6 +45391,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 991;
 },
 {
 anchors = (
@@ -45478,7 +45479,6 @@ nodes = (
 );
 }
 );
-width = 1082;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -45486,6 +45486,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1082;
 }
 );
 leftKerningGroup = uni13C7.alt;
@@ -45570,7 +45571,6 @@ nodes = (
 );
 }
 );
-width = 609;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -45578,6 +45578,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 609;
 },
 {
 anchors = (
@@ -45648,7 +45649,6 @@ nodes = (
 );
 }
 );
-width = 616;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -45657,6 +45657,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 616;
 },
 {
 anchors = (
@@ -45727,7 +45728,6 @@ nodes = (
 );
 }
 );
-width = 627;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -45735,6 +45735,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 627;
 }
 );
 note = uni13CB;
@@ -45802,7 +45803,6 @@ nodes = (
 );
 }
 );
-width = 744;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -45810,6 +45810,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 744;
 },
 {
 anchors = (
@@ -45865,7 +45866,6 @@ nodes = (
 );
 }
 );
-width = 756;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -45874,6 +45874,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 756;
 },
 {
 anchors = (
@@ -45929,7 +45930,6 @@ nodes = (
 );
 }
 );
-width = 766;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -45937,6 +45937,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 766;
 }
 );
 note = uni13CC;
@@ -46034,7 +46035,6 @@ nodes = (
 );
 }
 );
-width = 942;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46042,6 +46042,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 942;
 },
 {
 anchors = (
@@ -46126,7 +46127,6 @@ nodes = (
 );
 }
 );
-width = 973;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46135,6 +46135,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 973;
 },
 {
 anchors = (
@@ -46219,7 +46220,6 @@ nodes = (
 );
 }
 );
-width = 1106;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -46227,6 +46227,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1106;
 }
 );
 note = uni13CD;
@@ -46285,7 +46286,6 @@ nodes = (
 );
 }
 );
-width = 557;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46293,6 +46293,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 557;
 },
 {
 anchors = (
@@ -46339,7 +46340,6 @@ nodes = (
 );
 }
 );
-width = 584;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46348,6 +46348,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 584;
 },
 {
 anchors = (
@@ -46394,7 +46395,6 @@ nodes = (
 );
 }
 );
-width = 580;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -46402,6 +46402,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 580;
 }
 );
 note = uni13CE;
@@ -46465,7 +46466,6 @@ nodes = (
 );
 }
 );
-width = 581;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46473,6 +46473,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 581;
 },
 {
 anchors = (
@@ -46524,7 +46525,6 @@ nodes = (
 );
 }
 );
-width = 621;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46533,6 +46533,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 621;
 },
 {
 anchors = (
@@ -46584,7 +46585,6 @@ nodes = (
 );
 }
 );
-width = 666;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -46592,6 +46592,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 666;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -46707,7 +46708,6 @@ nodes = (
 );
 }
 );
-width = 558;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46715,6 +46715,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 558;
 },
 {
 anchors = (
@@ -46815,7 +46816,6 @@ nodes = (
 );
 }
 );
-width = 629;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -46824,6 +46824,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 629;
 },
 {
 anchors = (
@@ -46924,7 +46925,6 @@ nodes = (
 );
 }
 );
-width = 683;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -46932,6 +46932,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 683;
 }
 );
 note = uni13D0;
@@ -47052,7 +47053,6 @@ nodes = (
 );
 }
 );
-width = 819;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47060,6 +47060,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 819;
 },
 {
 anchors = (
@@ -47168,7 +47169,6 @@ nodes = (
 );
 }
 );
-width = 816;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47177,6 +47177,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 816;
 },
 {
 anchors = (
@@ -47285,7 +47286,6 @@ nodes = (
 );
 }
 );
-width = 874;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -47293,6 +47293,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 874;
 }
 );
 note = uni13D1;
@@ -47358,7 +47359,6 @@ nodes = (
 );
 }
 );
-width = 630;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47366,6 +47366,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 630;
 },
 {
 anchors = (
@@ -47418,7 +47419,6 @@ nodes = (
 );
 }
 );
-width = 686;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47427,6 +47427,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 686;
 },
 {
 anchors = (
@@ -47479,7 +47480,6 @@ nodes = (
 );
 }
 );
-width = 713;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -47487,6 +47487,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 713;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -47559,7 +47560,6 @@ nodes = (
 );
 }
 );
-width = 569;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47567,6 +47567,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 569;
 },
 {
 anchors = (
@@ -47625,7 +47626,6 @@ nodes = (
 );
 }
 );
-width = 589;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47634,6 +47634,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 589;
 },
 {
 anchors = (
@@ -47692,7 +47693,6 @@ nodes = (
 );
 }
 );
-width = 682;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -47700,6 +47700,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 682;
 }
 );
 leftMetricsKey = uni13CC.alt;
@@ -47766,7 +47767,6 @@ nodes = (
 );
 }
 );
-width = 846;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47774,6 +47774,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 846;
 },
 {
 anchors = (
@@ -47826,7 +47827,6 @@ nodes = (
 );
 }
 );
-width = 924;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47835,6 +47835,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 924;
 },
 {
 anchors = (
@@ -47887,7 +47888,6 @@ nodes = (
 );
 }
 );
-width = 1102;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -47895,6 +47895,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1102;
 }
 );
 note = uni13D4;
@@ -47973,7 +47974,6 @@ nodes = (
 );
 }
 );
-width = 660;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -47981,6 +47981,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 660;
 },
 {
 anchors = (
@@ -48047,7 +48048,6 @@ nodes = (
 );
 }
 );
-width = 664;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48056,6 +48056,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 664;
 },
 {
 anchors = (
@@ -48122,7 +48123,6 @@ nodes = (
 );
 }
 );
-width = 656;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -48130,6 +48130,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 656;
 }
 );
 leftKerningGroup = uni13DA.alt;
@@ -48205,7 +48206,6 @@ nodes = (
 );
 }
 );
-width = 694;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48213,6 +48213,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 694;
 },
 {
 anchors = (
@@ -48275,7 +48276,6 @@ nodes = (
 );
 }
 );
-width = 727;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48284,6 +48284,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 727;
 },
 {
 anchors = (
@@ -48346,7 +48347,6 @@ nodes = (
 );
 }
 );
-width = 810;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -48354,6 +48354,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 810;
 }
 );
 note = uni13D6;
@@ -48422,7 +48423,6 @@ nodes = (
 );
 }
 );
-width = 641;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48430,6 +48430,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 641;
 },
 {
 anchors = (
@@ -48486,7 +48487,6 @@ nodes = (
 );
 }
 );
-width = 663;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48495,6 +48495,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 663;
 },
 {
 anchors = (
@@ -48551,7 +48552,6 @@ nodes = (
 );
 }
 );
-width = 728;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -48559,6 +48559,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 728;
 }
 );
 note = uni13D7;
@@ -48629,7 +48630,6 @@ nodes = (
 );
 }
 );
-width = 655;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48637,6 +48637,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 655;
 },
 {
 anchors = (
@@ -48693,7 +48694,6 @@ nodes = (
 );
 }
 );
-width = 695;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48702,6 +48702,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 695;
 },
 {
 anchors = (
@@ -48758,7 +48759,6 @@ nodes = (
 );
 }
 );
-width = 776;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -48766,6 +48766,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 776;
 }
 );
 note = uni13D8;
@@ -48820,7 +48821,6 @@ nodes = (
 );
 }
 );
-width = 669;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48828,6 +48828,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 669;
 },
 {
 anchors = (
@@ -48870,7 +48871,6 @@ nodes = (
 );
 }
 );
-width = 693;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -48879,6 +48879,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 693;
 },
 {
 anchors = (
@@ -48921,7 +48922,6 @@ nodes = (
 );
 }
 );
-width = 723;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -48929,6 +48929,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 723;
 }
 );
 note = uni13D9;
@@ -49003,7 +49004,6 @@ nodes = (
 );
 }
 );
-width = 507;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49011,6 +49011,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 507;
 },
 {
 anchors = (
@@ -49073,7 +49074,6 @@ nodes = (
 );
 }
 );
-width = 568;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49082,6 +49082,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 568;
 },
 {
 anchors = (
@@ -49144,7 +49145,6 @@ nodes = (
 );
 }
 );
-width = 572;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -49152,6 +49152,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 572;
 }
 );
 leftKerningGroup = uni13DA.alt;
@@ -49243,7 +49244,6 @@ nodes = (
 );
 }
 );
-width = 967;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49251,6 +49251,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 967;
 },
 {
 anchors = (
@@ -49329,7 +49330,6 @@ nodes = (
 );
 }
 );
-width = 987;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49338,6 +49338,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 987;
 },
 {
 anchors = (
@@ -49416,7 +49417,6 @@ nodes = (
 );
 }
 );
-width = 1094;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -49424,6 +49424,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1094;
 }
 );
 leftMetricsKey = uni13BE.alt;
@@ -49557,7 +49558,6 @@ nodes = (
 );
 }
 );
-width = 748;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49565,6 +49565,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 748;
 },
 {
 anchors = (
@@ -49684,7 +49685,6 @@ nodes = (
 );
 }
 );
-width = 758;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49693,6 +49693,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 758;
 },
 {
 anchors = (
@@ -49812,7 +49813,6 @@ nodes = (
 );
 }
 );
-width = 861;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -49820,6 +49820,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 861;
 }
 );
 note = uni13DC;
@@ -49882,7 +49883,6 @@ nodes = (
 );
 }
 );
-width = 615;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49890,6 +49890,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 615;
 },
 {
 anchors = (
@@ -49940,7 +49941,6 @@ nodes = (
 );
 }
 );
-width = 638;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -49949,6 +49949,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 638;
 },
 {
 anchors = (
@@ -49999,7 +50000,6 @@ nodes = (
 );
 }
 );
-width = 690;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -50007,6 +50007,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 690;
 }
 );
 leftKerningGroup = uni13B5.alt;
@@ -50055,7 +50056,6 @@ nodes = (
 );
 }
 );
-width = 588;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50063,6 +50063,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 588;
 },
 {
 anchors = (
@@ -50097,7 +50098,6 @@ nodes = (
 );
 }
 );
-width = 602;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50106,6 +50106,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 602;
 },
 {
 anchors = (
@@ -50140,7 +50141,6 @@ nodes = (
 );
 }
 );
-width = 639;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -50148,6 +50148,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 639;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -50210,7 +50211,6 @@ nodes = (
 );
 }
 );
-width = 616;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50218,6 +50218,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 616;
 },
 {
 anchors = (
@@ -50266,7 +50267,6 @@ nodes = (
 );
 }
 );
-width = 646;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50275,6 +50275,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 646;
 },
 {
 anchors = (
@@ -50323,7 +50324,6 @@ nodes = (
 );
 }
 );
-width = 660;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -50331,6 +50331,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 660;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -50421,7 +50422,6 @@ nodes = (
 );
 }
 );
-width = 788;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50429,6 +50429,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 788;
 },
 {
 anchors = (
@@ -50505,7 +50506,6 @@ nodes = (
 );
 }
 );
-width = 812;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50514,6 +50514,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 812;
 },
 {
 anchors = (
@@ -50590,7 +50591,6 @@ nodes = (
 );
 }
 );
-width = 909;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -50598,6 +50598,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 909;
 }
 );
 note = uni13E0;
@@ -50631,7 +50632,6 @@ transform = "{-1, 0, 0, -1, 837, 646}";
 }
 );
 layerId = "2DF4BED8-8C28-42AB-BF0E-54235D05585D";
-width = 837;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50639,6 +50639,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 837;
 },
 {
 anchors = (
@@ -50659,7 +50660,6 @@ transform = "{-1, 0, 0, -1, 846, 644}";
 }
 );
 layerId = "7F3B6D50-898E-416D-BEA3-584E42DB8369";
-width = 846;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50668,6 +50668,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 846;
 },
 {
 anchors = (
@@ -50688,7 +50689,6 @@ transform = "{-1, 0, 0, -1, 964, 644}";
 }
 );
 layerId = "E4ECE1AD-6BB8-4230-9342-12306ED3D56E";
-width = 964;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -50696,6 +50696,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 964;
 }
 );
 note = uni13E1;
@@ -50759,7 +50760,6 @@ nodes = (
 );
 }
 );
-width = 581;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50767,6 +50767,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 581;
 },
 {
 anchors = (
@@ -50818,7 +50819,6 @@ nodes = (
 );
 }
 );
-width = 621;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50827,6 +50827,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 621;
 },
 {
 anchors = (
@@ -50878,7 +50879,6 @@ nodes = (
 );
 }
 );
-width = 666;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -50886,6 +50886,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 666;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -50959,7 +50960,6 @@ nodes = (
 );
 }
 );
-width = 677;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -50967,6 +50967,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 677;
 },
 {
 anchors = (
@@ -51025,7 +51026,6 @@ nodes = (
 );
 }
 );
-width = 682;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51034,6 +51034,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 682;
 },
 {
 anchors = (
@@ -51092,7 +51093,6 @@ nodes = (
 );
 }
 );
-width = 688;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -51100,6 +51100,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 688;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -51154,7 +51155,6 @@ nodes = (
 );
 }
 );
-width = 678;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51162,6 +51162,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 678;
 },
 {
 anchors = (
@@ -51202,7 +51203,6 @@ nodes = (
 );
 }
 );
-width = 749;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51211,6 +51211,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 749;
 },
 {
 anchors = (
@@ -51251,7 +51252,6 @@ nodes = (
 );
 }
 );
-width = 893;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -51259,6 +51259,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 893;
 }
 );
 leftKerningGroup = uni13A2.alt;
@@ -51337,7 +51338,6 @@ nodes = (
 );
 }
 );
-width = 806;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51345,6 +51345,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 806;
 },
 {
 anchors = (
@@ -51410,7 +51411,6 @@ nodes = (
 );
 }
 );
-width = 841;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51419,6 +51419,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 841;
 },
 {
 anchors = (
@@ -51484,7 +51485,6 @@ nodes = (
 );
 }
 );
-width = 934;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -51492,6 +51492,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 934;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -51556,7 +51557,6 @@ nodes = (
 );
 }
 );
-width = 664;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51564,6 +51564,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 664;
 },
 {
 anchors = (
@@ -51614,7 +51615,6 @@ nodes = (
 );
 }
 );
-width = 717;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51623,6 +51623,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 717;
 },
 {
 anchors = (
@@ -51673,7 +51674,6 @@ nodes = (
 );
 }
 );
-width = 768;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -51681,6 +51681,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 768;
 }
 );
 leftKerningGroup = uni13BB.alt;
@@ -51755,7 +51756,6 @@ nodes = (
 );
 }
 );
-width = 528;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51763,6 +51763,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 528;
 },
 {
 anchors = (
@@ -51823,7 +51824,6 @@ nodes = (
 );
 }
 );
-width = 551;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51832,6 +51832,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 551;
 },
 {
 anchors = (
@@ -51892,7 +51893,6 @@ nodes = (
 );
 }
 );
-width = 652;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -51900,6 +51900,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 652;
 }
 );
 note = uni13E7;
@@ -51980,7 +51981,6 @@ nodes = (
 );
 }
 );
-width = 756;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -51988,6 +51988,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 756;
 },
 {
 anchors = (
@@ -52054,7 +52055,6 @@ nodes = (
 );
 }
 );
-width = 768;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -52063,6 +52063,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 768;
 },
 {
 anchors = (
@@ -52129,7 +52130,6 @@ nodes = (
 );
 }
 );
-width = 816;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -52137,6 +52137,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 816;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -52230,7 +52231,6 @@ nodes = (
 );
 }
 );
-width = 841;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -52238,6 +52238,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 841;
 },
 {
 anchors = (
@@ -52317,7 +52318,6 @@ nodes = (
 );
 }
 );
-width = 824;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -52326,6 +52326,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 824;
 },
 {
 anchors = (
@@ -52405,7 +52406,6 @@ nodes = (
 );
 }
 );
-width = 846;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -52413,6 +52413,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 846;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -52533,7 +52534,6 @@ nodes = (
 );
 }
 );
-width = 967;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -52541,6 +52541,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 967;
 },
 {
 anchors = (
@@ -52647,7 +52648,6 @@ nodes = (
 );
 }
 );
-width = 1001;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -52656,6 +52656,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 1001;
 },
 {
 anchors = (
@@ -52762,7 +52763,6 @@ nodes = (
 );
 }
 );
-width = 1138;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -52770,6 +52770,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1138;
 }
 );
 leftKerningGroup = uni13EA.alt;
@@ -52849,7 +52850,6 @@ nodes = (
 );
 }
 );
-width = 704;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -52857,6 +52857,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 704;
 },
 {
 anchors = (
@@ -52923,7 +52924,6 @@ nodes = (
 );
 }
 );
-width = 717;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -52932,6 +52932,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 717;
 },
 {
 anchors = (
@@ -52998,7 +52999,6 @@ nodes = (
 );
 }
 );
-width = 740;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -53006,6 +53006,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 740;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -53098,7 +53099,6 @@ nodes = (
 );
 }
 );
-width = 980;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53106,6 +53106,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 980;
 },
 {
 anchors = (
@@ -53183,7 +53184,6 @@ nodes = (
 );
 }
 );
-width = 984;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53192,6 +53192,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 984;
 },
 {
 anchors = (
@@ -53269,7 +53270,6 @@ nodes = (
 );
 }
 );
-width = 1038;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -53277,6 +53277,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1038;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -53356,7 +53357,6 @@ nodes = (
 );
 }
 );
-width = 557;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53364,6 +53364,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 557;
 },
 {
 anchors = (
@@ -53429,7 +53430,6 @@ nodes = (
 );
 }
 );
-width = 587;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53438,6 +53438,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 587;
 },
 {
 anchors = (
@@ -53503,7 +53504,6 @@ nodes = (
 );
 }
 );
-width = 646;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -53511,6 +53511,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 646;
 }
 );
 note = uni13ED;
@@ -53595,7 +53596,6 @@ nodes = (
 );
 }
 );
-width = 535;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53603,6 +53603,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 535;
 },
 {
 anchors = (
@@ -53674,7 +53675,6 @@ nodes = (
 );
 }
 );
-width = 585;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53683,6 +53683,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 585;
 },
 {
 anchors = (
@@ -53754,7 +53755,6 @@ nodes = (
 );
 }
 );
-width = 621;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -53762,6 +53762,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 621;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -53873,7 +53874,6 @@ nodes = (
 );
 }
 );
-width = 964;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53881,6 +53881,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 964;
 },
 {
 anchors = (
@@ -53979,7 +53980,6 @@ nodes = (
 );
 }
 );
-width = 991;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -53988,6 +53988,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 991;
 },
 {
 anchors = (
@@ -54086,7 +54087,6 @@ nodes = (
 );
 }
 );
-width = 1033;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -54094,6 +54094,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 1033;
 }
 );
 leftKerningGroup = uni13C7.alt;
@@ -54189,7 +54190,6 @@ nodes = (
 );
 }
 );
-width = 685;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -54197,6 +54197,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 685;
 },
 {
 anchors = (
@@ -54278,7 +54279,6 @@ nodes = (
 );
 }
 );
-width = 728;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -54287,6 +54287,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 728;
 },
 {
 anchors = (
@@ -54368,7 +54369,6 @@ nodes = (
 );
 }
 );
-width = 818;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -54376,6 +54376,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 818;
 }
 );
 note = uni13F0;
@@ -54466,7 +54467,6 @@ nodes = (
 );
 }
 );
-width = 762;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -54474,6 +54474,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 762;
 },
 {
 anchors = (
@@ -54552,7 +54553,6 @@ nodes = (
 );
 }
 );
-width = 767;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -54561,6 +54561,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 767;
 },
 {
 anchors = (
@@ -54639,7 +54640,6 @@ nodes = (
 );
 }
 );
-width = 857;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -54647,6 +54647,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 857;
 }
 );
 note = uni13F1;
@@ -54731,7 +54732,6 @@ nodes = (
 );
 }
 );
-width = 685;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -54739,6 +54739,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 685;
 },
 {
 anchors = (
@@ -54811,7 +54812,6 @@ nodes = (
 );
 }
 );
-width = 712;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -54820,6 +54820,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 712;
 },
 {
 anchors = (
@@ -54892,7 +54893,6 @@ nodes = (
 );
 }
 );
-width = 764;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -54900,6 +54900,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 764;
 }
 );
 leftKerningGroup = uni13B5.alt;
@@ -54978,7 +54979,6 @@ nodes = (
 );
 }
 );
-width = 755;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -54986,6 +54986,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 755;
 },
 {
 anchors = (
@@ -55050,7 +55051,6 @@ nodes = (
 );
 }
 );
-width = 759;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -55059,6 +55059,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 759;
 },
 {
 anchors = (
@@ -55123,7 +55124,6 @@ nodes = (
 );
 }
 );
-width = 816;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -55131,6 +55131,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 816;
 }
 );
 leftKerningGroup = uni13A4.alt;
@@ -55213,7 +55214,6 @@ nodes = (
 );
 }
 );
-width = 633;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -55221,6 +55221,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 633;
 },
 {
 anchors = (
@@ -55289,7 +55290,6 @@ nodes = (
 );
 }
 );
-width = 676;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -55298,6 +55298,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 676;
 },
 {
 anchors = (
@@ -55366,7 +55367,6 @@ nodes = (
 );
 }
 );
-width = 731;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -55374,6 +55374,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 731;
 }
 );
 leftMetricsKey = uni13BB.alt;
@@ -55433,7 +55434,6 @@ nodes = (
 );
 }
 );
-width = 684;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -55441,6 +55441,7 @@ height = 90.5;
 width = 92;
 };
 };
+width = 684;
 },
 {
 anchors = (
@@ -55487,7 +55488,6 @@ nodes = (
 );
 }
 );
-width = 716;
 userData = {
 RMXScaler = {
 adjustSpace = 2;
@@ -55496,6 +55496,7 @@ weight = -5;
 width = 92;
 };
 };
+width = 716;
 },
 {
 anchors = (
@@ -55542,7 +55543,6 @@ nodes = (
 );
 }
 );
-width = 726;
 userData = {
 RMXScaler = {
 height = 90.5;
@@ -55550,6 +55550,7 @@ weight = -12;
 width = 93;
 };
 };
+width = 726;
 }
 );
 userData = {
@@ -56722,7 +56723,6 @@ width = 0;
 unicode = 0331;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
@@ -56793,8 +56793,8 @@ value = "Noto Sans Cherokee ExtLt";
 );
 interpolationWeight = 39;
 instanceInterpolations = {
-"7F3B6D50-898E-416D-BEA3-584E42DB8369" = 0.203125;
-"2DF4BED8-8C28-42AB-BF0E-54235D05585D" = 0.796875;
+"2DF4BED8-8C28-42AB-BF0E-54235D05585D" = 0.79688;
+"7F3B6D50-898E-416D-BEA3-584E42DB8369" = 0.20312;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
@@ -56831,8 +56831,8 @@ value = "Noto Sans Cherokee Light";
 );
 interpolationWeight = 58;
 instanceInterpolations = {
-"7F3B6D50-898E-416D-BEA3-584E42DB8369" = 0.5;
 "2DF4BED8-8C28-42AB-BF0E-54235D05585D" = 0.5;
+"7F3B6D50-898E-416D-BEA3-584E42DB8369" = 0.5;
 };
 name = Light;
 weightClass = Light;
